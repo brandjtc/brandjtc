@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning **`Operating Systems`, `Legal and Ethical Aspects of Computers` and `Algorithmic Design`**
 - 📄 You can view my Resume [here](https://drive.google.com/file/d/1N_TuXp3JYqhS9VotpA36V2tfZI6G6iJC/view?usp=sharing).
+- 📫 You can reach me at: [bc1491@mynsu.nova.edu](mailto:bc1491@mynsu.nova.edu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,8 +3,8 @@
 
 
 
-- 🌱 I’m currently learning `Computer Security` and `Introduction to Data Science`
-- 🤝 I'm currently working on [Emergency-Review-Scraper-and-Analysis](https://github.com/brandjtc/Emergency-Review-Scraper-and-Analysis) in collaboration with [Anthpa03](https://github.com/Anthpa03)
+- 🌱 I’m currently learning `Human-Computer Interaction` and `Design and Analysis Algorithms`
+- 🤝 I'm currently working on [Storefront-Online-Ordering-System](https://github.com/ishaswamy/Storefront-Online-Ordering-System) in collaboration with [ishaswamy](https://github.com/ishaswamy)
 - 📄 You can view my Resume [here](https://drive.google.com/file/d/1N_TuXp3JYqhS9VotpA36V2tfZI6G6iJC/view?usp=sharing).
 - 📫 You can reach me at: [bc1491@mynsu.nova.edu](mailto:bc1491@mynsu.nova.edu)
 

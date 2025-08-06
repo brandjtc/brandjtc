@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning `Fullstack Development` and `Database Systems`
 - 🤝 Recently finished [The CS-Cart Online Ordering System](https://github.com/ishaswamy/CS-Cart) in collaboration with [ishaswamy](https://github.com/ishaswamy)
-- 💼 Currently seeking software engineering opportunities
 - 📄 You can view my Resume [here](https://drive.google.com/file/d/1N_TuXp3JYqhS9VotpA36V2tfZI6G6iJC/view?usp=sharing).
 - 📫 You can reach me at: [brandonjtc@gmail.com](mailto:brandonjtc@gmail.com)
 
